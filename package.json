@@ -1,0 +1,28 @@
+{
+	"name": "draggle-shape",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "next dev"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@reduxjs/toolkit": "^1.8.2",
+		"next": "^12.1.6",
+		"react": "^18.1.0",
+		"react-dom": "^18.1.0",
+		"react-redux": "^8.0.2"
+	},
+	"devDependencies": {
+		"@types/node": "^17.0.36",
+		"@types/react": "^18.0.9",
+		"@types/react-dom": "^18.0.5",
+		"@types/react-redux": "^7.1.24",
+		"sass": "^1.52.1",
+		"typescript": "^4.7.2"
+	}
+}
